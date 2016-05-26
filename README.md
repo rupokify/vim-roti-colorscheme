@@ -8,7 +8,7 @@ and Mentioning Honorably
 
 ```viml
 " ~/.vimrc
-colorscheme github
+colorscheme roti
 ```
 
 Screenshots
